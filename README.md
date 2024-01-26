@@ -22,5 +22,3 @@ Coastkit provided marine conservation sites and threatened species protected und
 ![Investigation area werribee](https://github.com/xJKLx/GIS/assets/157556286/9fab03fe-054e-4627-975b-ee4eb84abf3d)
 
 This planning solution proposes aquaculture investigation areas off the coast of Werribee South from GIS analysis in relation to surrounding land use, coastal erosion hazards and conservation areas. The recommendation to establish aquaculture of oyster and seaweed aims to derive potential benefits in managing conservation and coastal protection, food security and provide a sustainable source of economic activities. 
-
-![Werribee South_resilience_aquaculture pdf - Adobe Acrobat P](https://github.com/xJKLx/GIS/assets/157556286/b4decf29-ff56-4cbb-bd3a-1cf6c996bf86)
