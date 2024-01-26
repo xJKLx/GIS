@@ -3,11 +3,15 @@ Welcome to my GIS portfolio. Below you can browse a selection of maps and applic
 
 # GIS Analysis in Building Resilient Settlements
 
-This project in building resilient settlements explores aquaculture as a nature-based solution in the adaptation of coastal social-ecological systems to climate change. The recommendation to establish aquaculture of oyster and seaweed off a conventional agricultural coastal settlement to provide potential benefits in managing conservation and coastal protection, food security and provides a sustainable source of economic activities. 
+This project in building resilient settlements explores aquaculture as a nature-based solution in the adaptation of coastal social-ecological systems to climate change. The recommendation to establish aquaculture of oyster and seaweed off a conventional agricultural coastal settlement to provide potential benefits in managing conservation and coastal protection, food security and provides a sustainable source of economic activities. Aquaculture practices in seaweed and shellfish farming can realise potential benefits to ecosystem services including carbon sequestration and nitrogen bio-extraction and nutrient regulation, as well as mitigating eutrophication from agriculture. 
 
-A GIS site analysis integrates environmental and socio-economic factors in the  local context to assess site suitability to realise potential benefits of aquaculture practices in seaweed and shellfish farming to contribute towards ecosystem services including carbon sequestration and nitrogen bio-extraction and nutrient regulation, as well as mitigating eutrophication from agriculture. Coastal resilience is achieved by aligning aquaculture initiatives with objectives for water quality, biodiversity conservation, coastal protection and diversification of livelihoods.   
+A GIS site analysis integrates environmental and socio-economic factors to assess site suitability in the  local context. Coastal resilience is achieved by aligning aquaculture initiatives with objectives for coastal protection.   
+
+The Werribee South coast off the Intensive Agricultural Precinct is exposed to high levels of Sea Level Rise under the very high inundation scenario in 2150, using data sourced from coastalrisk.com.au.
 
 ![2150SLRWerribee](https://github.com/xJKLx/GIS/assets/157556286/4ba6bb77-7ea6-4326-8dcc-0bb319e9c465)
+
+Shellfish 
 ![BiodiversityWerribee](https://github.com/xJKLx/GIS/assets/157556286/c37a494b-4ca6-456b-b494-162894e34a7a)
 
 
