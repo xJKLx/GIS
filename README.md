@@ -1,6 +1,13 @@
 # GIS Portfolio
 Welcome to my GIS portfolio. Below you can browse a selection of maps and applications I created for educational and private purposes.
 
+# Ecosystem Management: Effect of Urban Green Spaces on Connectivity and Countering Fragmentation 
+
+![BBNCcloudfreendvi](https://github.com/xJKLx/GIS/assets/157556286/7f5bd42f-131e-4aad-b72f-ad1b5981da33)
+
+![BBNCconnectedisolated](https://github.com/xJKLx/GIS/assets/157556286/3016ca60-eefc-4838-9f67-e3a46c9da777)
+
+
 # GIS Analysis in Building Resilient Settlements
 
 This project in building resilient settlements explores aquaculture as a nature-based solution in the adaptation of coastal social-ecological systems to climate change. Aquaculture practices in seaweed and shellfish farming can realise potential benefits to ecosystem services including carbon sequestration and nitrogen bio-extraction and nutrient regulation, as well as mitigating eutrophication from agriculture. 
