@@ -22,14 +22,13 @@ Satellite images from Landsat 8 Level 2, Collection 2, Tier 1 were extracted fro
 Cloud-free composite Landsat 8 images were used to calculate NDVI for each two-year time periods. Study area is shown by the blue box (left). QGIS was used to reclassify raster pixels with NDVI values greater than 0.7, using raster calculator, and converting raster to vector with Polygonize tool. Vector layer is dissolved to obtain single polygon of natural areas (right).
 
 ![BBNCcloudfreendvi](https://github.com/xJKLx/GIS/assets/157556286/7f5bd42f-131e-4aad-b72f-ad1b5981da33)
-
 To identify connected patches within 100m apart, natural areas are buffered at 50m in QGIS. Roads buffered at 7.5m represent the fragmentation geometry which is subtracted from the buffered natural areas. The result is intersected with the unbuffered natural areas to identify patches that remain connected.
 
 A connectivity analysis is undertaken to study the temporal and spatial changes in natural areas and fragmentation geometry using four scenarios:  <br>
 Scenario 1 - With barriers (roads), without connectors. Based on 2017-18 natural areas.  <br>
 Scenario 2 - With barriers (roads), without connectors. Based on 2019-20 natural areas.  <br>
 Scenario 3 - With barriers (roads), without connectors. Based on 2021-22 natural areas.  <br>
-Scenatio 4 - With barriers (roads) and connectors. Based on 2021-22 natural areas.  <br>
+Scenatio 4 - With barriers (roads) and connectors. Based on 2021-22 natural areas.
 
 ![BBNCconnectedisolated](https://github.com/xJKLx/GIS/assets/157556286/3016ca60-eefc-4838-9f67-e3a46c9da777)
 
