@@ -25,11 +25,11 @@ Cloud-free composite Landsat 8 images were used to calculate NDVI for each two-y
 
 To identify connected patches within 100m apart, natural areas are buffered at 50m in QGIS. Roads buffered at 7.5m represent the fragmentation geometry which is subtracted from the buffered natural areas. The result is intersected with the unbuffered natural areas to identify patches that remain connected.
 
-A connectivity analysis is undertaken to study the temporal and spatial changes in natural areas and fragmentation geometry using four scenarios:
-Scenario 1 - With barriers (roads), without connectors. Based on 2017-18 natural areas.
-Scenario 2 - With barriers (roads), without connectors. Based on 2019-20 natural areas.
-Scenario 3 - With barriers (roads), without connectors. Based on 2021-22 natural areas.
-Scenatio 4 - With barriers (roads) and connectors. Based on 2021-22 natural areas.
+A connectivity analysis is undertaken to study the temporal and spatial changes in natural areas and fragmentation geometry using four scenarios:  <br>
+Scenario 1 - With barriers (roads), without connectors. Based on 2017-18 natural areas.  <br>
+Scenario 2 - With barriers (roads), without connectors. Based on 2019-20 natural areas.  <br>
+Scenario 3 - With barriers (roads), without connectors. Based on 2021-22 natural areas.  <br>
+Scenatio 4 - With barriers (roads) and connectors. Based on 2021-22 natural areas.  <br>
 
 ![BBNCconnectedisolated](https://github.com/xJKLx/GIS/assets/157556286/3016ca60-eefc-4838-9f67-e3a46c9da777)
 
