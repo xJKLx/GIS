@@ -3,9 +3,10 @@ Welcome to my GIS portfolio. Below you can browse a selection of maps and applic
 
 # Ecosystem Management: Measuring Connectivity of Urban Green Spaces for Countering Fragmentation 
 
+*Overview*
 In this research project, the Bukit Batok Nature Corridor (BBNC) established as part of an island-wide network of park connectors in Singapore to enhance ecological connectivity between natural areas in urban landscapes was used as a case study of the effectiveness of such greenways, as a countermeasure to fragmentation of natural habitats in urban areas.  
 
-## Obtaining spatial datasets and subset to study area
+## Obtaining spatial datasets and working with remote sensing data
 The phased implementation of the BBNC (blue polygon) and its effect on connectivity was measured in a study area encompassing the BBNC and surrounding areas within a 5km radius (red rectangle). BBNC serves as an intermediate node between existing natural areas allowing the movement of wildlife between core biodiversity areas - Central Catchment Nature Reserve and Western Water Catchment. Satellite imagery sourced from ESRI and land use layers from Urban Redevelopment Authority (URA) Master Plan 2019.  
 
 ![BBNCarea](https://github.com/xJKLx/GIS/assets/157556286/86c6c90d-87f7-4691-a60b-74a280f49eb2)
@@ -22,6 +23,8 @@ Satellite images from Landsat 8 Level 2, Collection 2, Tier 1 were extracted fro
 Cloud-free composite Landsat 8 images were used to calculate NDVI for each two-year time periods. Study area is shown by the blue box (left). QGIS was used to reclassify raster pixels with NDVI values greater than 0.7, using raster calculator, and converting raster to vector with Polygonize tool. Vector layer is dissolved to obtain single polygon of natural areas (right).
 
 ![BBNCcloudfreendvi](https://github.com/xJKLx/GIS/assets/157556286/7f5bd42f-131e-4aad-b72f-ad1b5981da33)
+
+## Vector manipulation and analysis
 To identify connected patches within 100m apart, natural areas are buffered at 50m in QGIS. Roads buffered at 7.5m represent the fragmentation geometry which is subtracted from the buffered natural areas. The result is intersected with the unbuffered natural areas to identify patches that remain connected.
 
 A connectivity analysis is undertaken to study the temporal and spatial changes in natural areas and fragmentation geometry using four scenarios:  <br>
@@ -41,6 +44,7 @@ In summary, the findings of the study support the implementation of greenways in
 
 # GIS Analysis in Building Resilient Settlements
 
+*Overview*
 This project in building resilient settlements explores aquaculture as a nature-based solution in the adaptation of coastal social-ecological systems to climate change. Aquaculture practices in seaweed and shellfish farming can realise potential benefits to ecosystem services including carbon sequestration and nitrogen bio-extraction and nutrient regulation, as well as mitigating eutrophication from agriculture. 
 
 A GIS site analysis integrates environmental and socio-economic factors to assess site suitability in the  local context. Coastal resilience is achieved by aligning aquaculture initiatives with objectives for coastal protection. Aquaculture is an effective NbS coastal defense strategy providing enhanced protection in combination with submerged aquatic vegetation and living shorelines.
