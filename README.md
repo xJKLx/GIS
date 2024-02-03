@@ -41,6 +41,31 @@ Patch analysis conducted showed that BBNC connectors reduced the number of patch
 
 In summary, the findings of the study support the implementation of greenways in increasing connectivity of fragmented natural areas in urban landscapes, compensating for loss of natural areas. Further, small patches by themselves do not contribute significantly to total connectivity but there are significant gains by connecting patches to larger patches with the removal of barriers.
 
+# Spatial Analytics
+
+## Modelling Spatial Dependency of Dengue Transmission in Singapore
+
+*Overview*  <br>
+
+Spatial modelling has been used in epidemiology to describe existing and predict future disease occurrence. This project undertook a spatial analysis of dengue transmisison in Singapore on the study date of 28 June 2023. The study aims to describe the spatial distribution of dengue on the study date and attempts to identify a spatial process in place that explains the spread of dengue.
+
+Data on dengue clusters including case sizes tracked by the National Environment Agency (NEA) was obtained for the date 28 June 2023 using OneMap API  and python wrapper client onemapsg 1.0.3. The spatial distribution and intensity of dengue clusters was mapped to examine potential spatial dependence and patterns of spatial clustering. The polygons of dengue clusters were plotted by using geopandas to read the data as a GeoDataFrame in Jupyter Notebook. Dengue clusters polygons were rasterized in QGIS and cluster size (column = “case _size”) values were burned into raster cells to generate a zonal map together with the planning subzone boundaries shapefile. 
+
+![Dengueclusterzonal](https://github.com/xJKLx/GIS/assets/157556286/0ee549c3-ed89-4825-bdaa-1d7363f905e9)
+
+The skewed dataset with low mean case size (8.61) and a single extraordinarily high dengue case size (187) accounting for more than 60% of the total cases implied high spatial heterogeneity but complicated statistical analysis for non-randomness.
+
+A series of experiments on spatial weight matrices was conducted with both contiguity and distance-based models. Global Moran’s I and other metrics were calculated for each model and results were analysed for potential spatial dependency in dengue cluster case sizes. In all the spatial weight matrices the Global Moran’s I values were 0.02 and smaller and there is no significant difference (p<0.05) from a random distribution, so the null hypothesis of spatial randomness cannot be rejected. The k=15 nearest neighbours spatial weight matrix had the lowest p-score and highest z-score, indicating more spatial clustering.
+
+![denguespatialweight](https://github.com/xJKLx/GIS/assets/157556286/7029439c-5774-4269-a4f4-7e7e3e674995)
+
+Further investigation on potential spatial dependence in specific regions is conducted with Local Indicators of Spatial Association (LISA).
+
+![denguelocalmoran](https://github.com/xJKLx/GIS/assets/157556286/667fcd46-80d2-4317-bcde-378087b162e5)
+
+The top left plot in figure 7 categorizes the individual Subzones by the Moran’s I value or the degree to which there is positive (HH or LL) or negative (HL or LH) spatial correlation in case sizes. There are more Subzones with positive correlation than negative correlation and the absolute degree of positive correlation is higher than that of negative correlation. However, negative correlation is concentrated in the center where there are most dengue clusters. The top right plot distinguishes the Subzones into the respective four Moran scatterplot quadrants. It is evident that the positively correlated HH quadrant values are in central region around the Subzone with the highest case size of 187 and the (positively correlated) LL quadrant values form a boundary in the outer areas. The bottom left plot shows where the Local Moran’s I statistic is significant or not and the bottom right plot shows the respective quadrant of the statistically significant values. From the former most values are non-significant (256 out of 332), which explains the low Global Moran’s I. From the latter it is observed that the single HH cluster of Subzones (“hotspot”) is surrounded by LH Subzones (“doughnuts”) whereas there is a single HL Subzone (“diamond in the rough”) in the west region, and many LL Subzones in the outer areas (“cold spots”). 
+
+The analysis of local areas at each Subzone level and whether they belong to a statistically significant cluster of Moran scatterplot quadrant type provided a richer picture of spatial dependence over space, which the global measure of spatial autocorrelation with Global Moran’s I cannot capture. The identification of statistically significant local areas of correlated dengue case sizes, particularly the central region “hotspot” and west region “diamond in the rough”, motivates comparison of local conditions and measures that can explain the difference in spatial patterns.  
 
 # GIS Analysis in Building Resilient Settlements
 
