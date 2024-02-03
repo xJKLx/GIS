@@ -71,12 +71,13 @@ This planning solution proposes aquaculture investigation areas off the coast of
 
 A map of the Wilsons Promontory National Park was produced for bushwalkers hiking from Tidal River campground to the lighthouse in the southern section of the National Park. The map extent is zoomed into the southern section of the National Park showing the hike trails, marked with arrows clearly. Campgrounds are shown as well as the amenities on site, such as car parks, toilets and water points. Terrain types, contours, lookouts and important landmarks are indicated. Elevations are rendered to give a sense of the topography and water courses are identified. Symbols and labels are offset so that they do not overlap and appropriate level of detail is shown to highlight important features.
 
+![WilsonsProbush](https://github.com/xJKLx/GIS/assets/157556286/2376f898-6355-431c-973a-ebc25e631c69)
 
 ## Bushfire Management Map of Wilsons Promontory
 
 A map of the Wilsons Promontory National Park was produced for biodiversity officer, providing information on vegetation types impacted by burns in fire operations plans. Burn units, including for fuel reduction and ecological purposes, and the Ecological Vegetation Divisions they intersect are indicated clearly with symbology for different classifications. Roads and hiking trails as well as topography are also shown to give indication of location. 
 
-
+![WilsonsProfire](https://github.com/xJKLx/GIS/assets/157556286/76e152ba-d2ec-4084-885d-ec23c2b5be9a)
 
 ## Spatial Patterns of Agglomeration in one-north
 
