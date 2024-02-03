@@ -69,4 +69,9 @@ This planning solution proposes aquaculture investigation areas off the coast of
 
 ## Spatial Patterns of Agglomeration in one-north
 
+*Overview*
+The central role of agglomeration economies was examined in the planned approach and outcomes in the development of one-north, a 200-hectare innovation district in southwestern Singapore. one-north has gained international recognition as a leading state-led technology district, an innovation ecosystem with a mix of retail, civic, cultural, entertainment and lifestyle uses providing an integrated work-live-play-learn environment. 
 
+Visualisation of the eight precincts and specialised hubs show localisation economies in Marshallian clusters of firms in respective industries, as well as urbanisation economies of established multidisciplinary creative regions and co-located corporate services to support firms across sectors. Spatial patterns of intra-cluster, inter-sectoral and inter-district interactions represent the driving forces of agglomeration economies that positioned the industrial district as an innovation ecosystem as part of Singapore’s Technopreneurship 21 (T21) economic strategy to develop high-tech industries.   
+
+![onenorth](https://github.com/xJKLx/GIS/assets/157556286/0f4a9861-79b2-4109-b1d0-5a79a3b38a1d)
