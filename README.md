@@ -3,7 +3,7 @@ Welcome to my GIS portfolio. Below you can browse a selection of maps and applic
 
 # Ecosystem Management: Measuring Connectivity of Urban Green Spaces for Countering Fragmentation 
 
-*Overview*
+*Overview*  <br>
 In this research project, the Bukit Batok Nature Corridor (BBNC) established as part of an island-wide network of park connectors in Singapore to enhance ecological connectivity between natural areas in urban landscapes was used as a case study of the effectiveness of such greenways, as a countermeasure to fragmentation of natural habitats in urban areas.  
 
 ## Obtaining spatial datasets and working with remote sensing data
@@ -44,7 +44,7 @@ In summary, the findings of the study support the implementation of greenways in
 
 # GIS Analysis in Building Resilient Settlements
 
-*Overview*
+*Overview*  <br>
 This project in building resilient settlements explores aquaculture as a nature-based solution in the adaptation of coastal social-ecological systems to climate change. Aquaculture practices in seaweed and shellfish farming can realise potential benefits to ecosystem services including carbon sequestration and nitrogen bio-extraction and nutrient regulation, as well as mitigating eutrophication from agriculture. 
 
 A GIS site analysis integrates environmental and socio-economic factors to assess site suitability in the  local context. Coastal resilience is achieved by aligning aquaculture initiatives with objectives for coastal protection. Aquaculture is an effective NbS coastal defense strategy providing enhanced protection in combination with submerged aquatic vegetation and living shorelines.
@@ -69,7 +69,7 @@ This planning solution proposes aquaculture investigation areas off the coast of
 
 ## Spatial Patterns of Agglomeration in one-north
 
-*Overview*
+*Overview*  <br>
 The central role of agglomeration economies was examined in the planned approach and outcomes in the development of one-north, a 200-hectare innovation district in southwestern Singapore. one-north has gained international recognition as a leading state-led technology district, an innovation ecosystem with a mix of retail, civic, cultural, entertainment and lifestyle uses providing an integrated work-live-play-learn environment. 
 
 Visualisation of the eight precincts and specialised hubs show localisation economies in Marshallian clusters of firms in respective industries, as well as urbanisation economies of established multidisciplinary creative regions and co-located corporate services to support firms across sectors. Spatial patterns of intra-cluster, inter-sectoral and inter-district interactions represent the driving forces of agglomeration economies that positioned the industrial district as an innovation ecosystem as part of Singapore’s Technopreneurship 21 (T21) economic strategy to develop high-tech industries.   
