@@ -55,9 +55,11 @@ Data on dengue clusters including case sizes tracked by the National Environment
 
 The skewed dataset with low mean case size (8.61) and a single extraordinarily high dengue case size (187) accounting for more than 60% of the total cases implied high spatial heterogeneity but complicated statistical analysis for non-randomness.
 
-A series of experiments on spatial weight matrices was conducted with both contiguity and distance-based models. Global Moran’s I and other metrics were calculated for each model and results were analysed for potential spatial dependency in dengue cluster case sizes. In all the spatial weight matrices the Global Moran’s I values were 0.02 and smaller and there is no significant difference (p<0.05) from a random distribution, so the null hypothesis of spatial randomness cannot be rejected. The k=15 nearest neighbours spatial weight matrix had the lowest p-score and highest z-score, indicating more spatial clustering.
+A series of experiments on spatial weight matrices was conducted with both contiguity and distance-based models. 
 
 ![denguespatialweight](https://github.com/xJKLx/GIS/assets/157556286/7029439c-5774-4269-a4f4-7e7e3e674995)
+
+Global Moran’s I metrics were calculated and Moran scatterplots were produced for each model and results were analysed for potential spatial dependency in dengue cluster case sizes. In all the spatial weight matrices the Global Moran’s I values were 0.02 and smaller and there is no significant difference (p<0.05) from a random distribution, so the null hypothesis of spatial randomness cannot be rejected. The k=15 nearest neighbours spatial weight matrix had the lowest p-score and highest z-score, indicating more spatial clustering.
 
 Further investigation on potential spatial dependence in specific regions is conducted with Local Indicators of Spatial Association (LISA).
 
