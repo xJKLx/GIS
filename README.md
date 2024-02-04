@@ -1,5 +1,13 @@
 # GIS Portfolio
-Welcome to my GIS portfolio. Below you can browse a selection of maps and applications I created for educational and private purposes.
+Welcome to my GIS portfolio. Below you can browse a selection of maps and applications I created for professional development, educational and private purposes.
+
+## Projects List
+[Measuring Connectivity of Urban Green Spaces for Countering Fragmentation](https://github.com/xJKLx/GIS?tab=readme-ov-file#ecosystem-management-measuring-connectivity-of-urban-green-spaces-for-countering-fragmentation)
+[Modelling Spatial Dependency of Dengue Transmission in Singapore](https://github.com/xJKLx/GIS?tab=readme-ov-file#modelling-spatial-dependency-of-dengue-transmission-in-singapore)
+[GIS Analysis in Building Resilient Settlements](https://github.com/xJKLx/GIS?tab=readme-ov-file#gis-analysis-in-building-resilient-settlements)
+[Cartography - Wilsons Promontory National Park](https://github.com/xJKLx/GIS?tab=readme-ov-file#cartography)
+[Spatial Patterns of Agglomeration in one-north](https://github.com/xJKLx/GIS?tab=readme-ov-file#spatial-patterns-of-agglomeration-in-one-north)
+
 
 # Ecosystem Management: Measuring Connectivity of Urban Green Spaces for Countering Fragmentation 
 
@@ -41,6 +49,8 @@ Patch analysis conducted showed that BBNC connectors reduced the number of patch
 
 In summary, the findings of the study support the implementation of greenways in increasing connectivity of fragmented natural areas in urban landscapes, compensating for loss of natural areas. Further, small patches by themselves do not contribute significantly to total connectivity but there are significant gains by connecting patches to larger patches with the removal of barriers.
 
+[Return to Projects List](https://github.com/xJKLx/GIS?tab=readme-ov-file#projects-list)
+
 # Spatial Analytics
 
 ## Modelling Spatial Dependency of Dengue Transmission in Singapore
@@ -69,6 +79,8 @@ The top left plot categorizes the individual Subzones by the Moran’s I value o
 
 The analysis of local areas at each Subzone level and whether they belong to a statistically significant cluster of Moran scatterplot quadrant type provided a richer picture of spatial dependence over space, which the global measure of spatial autocorrelation with Global Moran’s I cannot capture. The identification of statistically significant local areas of correlated dengue case sizes, particularly the central region “hotspot” and west region “diamond in the rough”, motivates comparison of local conditions and measures that can explain the difference in spatial patterns.  
 
+[Return to Projects List](https://github.com/xJKLx/GIS?tab=readme-ov-file#projects-list)
+
 # GIS Analysis in Building Resilient Settlements
 
 *Overview*  <br>
@@ -92,6 +104,8 @@ Coastkit provided marine conservation sites and threatened species protected und
 
 This planning solution proposes aquaculture investigation areas off the coast of Werribee South from GIS analysis in relation to surrounding land use, coastal erosion hazards and conservation areas. The recommendation to establish aquaculture of oyster and seaweed aims to derive potential benefits in managing conservation and coastal protection, food security and provide a sustainable source of economic activities. 
 
+[Return to Projects List](https://github.com/xJKLx/GIS?tab=readme-ov-file#projects-list)
+
 # Cartography
 
 ## Hiking Map of Wilsons Promontory
@@ -106,6 +120,8 @@ A map of the Wilsons Promontory National Park was produced for biodiversity offi
 
 ![WilsonsProfire](https://github.com/xJKLx/GIS/assets/157556286/76e152ba-d2ec-4084-885d-ec23c2b5be9a)
 
+[Return to Projects List](https://github.com/xJKLx/GIS?tab=readme-ov-file#projects-list)
+
 ## Spatial Patterns of Agglomeration in one-north
 
 *Overview*  <br>
@@ -115,3 +131,4 @@ Visualisation of the eight precincts and specialised hubs show localisation econ
 
 ![onenorthwlegend](https://github.com/xJKLx/GIS/assets/157556286/38b72ae2-9079-4c6d-b863-f58de7d85260)
 
+[Return to Projects List](https://github.com/xJKLx/GIS?tab=readme-ov-file#projects-list)
