@@ -2,12 +2,11 @@
 Welcome to my GIS portfolio. Below you can browse a selection of maps and applications I created for professional development, educational and private purposes.
 
 ## Projects List
-[Measuring Connectivity of Urban Green Spaces for Countering Fragmentation](https://github.com/xJKLx/GIS?tab=readme-ov-file#ecosystem-management-measuring-connectivity-of-urban-green-spaces-for-countering-fragmentation)
-[Modelling Spatial Dependency of Dengue Transmission in Singapore](https://github.com/xJKLx/GIS?tab=readme-ov-file#modelling-spatial-dependency-of-dengue-transmission-in-singapore)
-[GIS Analysis in Building Resilient Settlements](https://github.com/xJKLx/GIS?tab=readme-ov-file#gis-analysis-in-building-resilient-settlements)
-[Cartography - Wilsons Promontory National Park](https://github.com/xJKLx/GIS?tab=readme-ov-file#cartography)
-[Spatial Patterns of Agglomeration in one-north](https://github.com/xJKLx/GIS?tab=readme-ov-file#spatial-patterns-of-agglomeration-in-one-north)
-
+[Measuring Connectivity of Urban Green Spaces for Countering Fragmentation](https://github.com/xJKLx/GIS?tab=readme-ov-file#ecosystem-management-measuring-connectivity-of-urban-green-spaces-for-countering-fragmentation)  <br>
+[Modelling Spatial Dependency of Dengue Transmission in Singapore](https://github.com/xJKLx/GIS?tab=readme-ov-file#modelling-spatial-dependency-of-dengue-transmission-in-singapore)    <br>
+[GIS Analysis in Building Resilient Settlements](https://github.com/xJKLx/GIS?tab=readme-ov-file#gis-analysis-in-building-resilient-settlements)    <br>
+[Cartography - Wilsons Promontory National Park](https://github.com/xJKLx/GIS?tab=readme-ov-file#cartography)    <br>
+[Spatial Patterns of Agglomeration in one-north](https://github.com/xJKLx/GIS?tab=readme-ov-file#spatial-patterns-of-agglomeration-in-one-north)    <br>
 
 # Ecosystem Management: Measuring Connectivity of Urban Green Spaces for Countering Fragmentation 
 
